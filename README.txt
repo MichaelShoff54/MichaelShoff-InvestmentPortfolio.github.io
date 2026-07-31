@@ -1,32 +1,50 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Investment Portfolio Website
 
+This repository contains my personal investment portfolio website, built to showcase my data analytics and business intelligence projects.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+The website serves as a central portfolio where recruiters and hiring managers can view my work, including interactive dashboards, project summaries, technical skills, and links to my GitHub repositories.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Built With
 
-(* = not included)
+* HTML5
+* CSS3
+* JavaScript
+* Microsoft Visual Studio
+* Git & GitHub
+* GitHub Pages
 
-AJ
-aj@lkn.io | @ajlkn
+## Development
 
+The website was created by customizing the **Massively** website template from HTML5 UP. I used Microsoft Visual Studio to edit the HTML, CSS, and JavaScript files and GitHub to version control, host, and publish the site using GitHub Pages.
 
-Credits:
+## Featured Projects
 
-	Demo Images:
-		Unsplash (unsplash.com)
+* **Investment Portfolio Dashboard**
 
-	Icons:
-		Font Awesome (fontawesome.io)
+  * Built in Microsoft Power BI
+  * Uses DAX measures and a star schema data model
+  * Tracks portfolio value, asset allocation, performance, dividends, and holdings
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Additional analytics projects will be added as they are completed.
+
+## Purpose
+
+The goal of this website is to demonstrate my ability to:
+
+* Build business intelligence dashboards
+* Model and transform data
+* Write DAX calculations
+* Create professional data visualizations
+* Develop and customize websites using HTML, CSS, and JavaScript
+* Publish projects using GitHub and GitHub Pages
+
+## Live Website
+
+(Replace this with your GitHub Pages URL after publishing.)
+
+## Acknowledgments
+
+This website was created by customizing the **Massively** template by HTML5 UP.
+
+Template: https://html5up.net/massively
+License: https://html5up.net/license
